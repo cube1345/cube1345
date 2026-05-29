@@ -98,14 +98,12 @@
 
 <div align="center">
 
-<table><tr>
-<td width="50%"><img height="170" width="100%" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
-<td width="50%"><img height="170" width="100%" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/></td>
-</tr></table>
+<img height="170" width="49%" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" width="49%" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/>
 
 <br/><br/>
 
-<img height="170" width="98%" src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages"/>
+<img height="170" width="49%" src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages"/>
 
 <br/><br/>
 

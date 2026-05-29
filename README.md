@@ -114,7 +114,7 @@
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cube1345&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2dd4bf&line=38bdf8&point=f59e0b" alt="Activity Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cube1345&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2dd4bf&line=38bdf8&point=f59e0b" alt="Activity Graph"/>
 
 </div>
 

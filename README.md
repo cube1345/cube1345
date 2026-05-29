@@ -34,17 +34,101 @@
 
 ## 👋 About Me · 关于我
 
-- Frontend developer focused on practical, polished web tools.
-- Embedded learner and builder working with MCU, C/C++, RISC-V and hardware workflows.
-- Interested in EDA, ROS2 and the bridge between software interfaces and physical systems.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### English
+
+Developer focused on the intersection of **frontend engineering** and **embedded systems**.
+
+Skilled in **TypeScript / JavaScript** for web development, and **C / C++** for bare-metal, RTOS, and ROS2 robotics.
+
+**Interests:** PCB design, MCU, ROS2, Web frontend.
+
+</td>
+<td width="50%" valign="top">
+
+### 中文
+
+专注于 **前端开发** 与 **嵌入式系统** 的开发者。
+
+技术栈覆盖 **TypeScript / JavaScript** Web 开发、**C / C++** 裸机 / RTOS 嵌入式开发与机器人 ROS2 开发。
+
+**兴趣方向:** PCB 设计、单片机、ROS2、Web 前端。
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ===================== SPOTLIGHT PROJECTS ===================== -->
 
 ## 🚀 Projects · 项目
 
-- **Frontend tools**: TypeScript, Next.js and Vue interfaces for useful developer workflows.
-- **Embedded experiments**: MCU, C/C++ and RISC-V practice projects around low-level systems.
-- **EDA / hardware workflow**: scripts, notes and UI ideas for improving electronics development.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [JLC_PLUG](https://github.com/cube1345/JLC_PLUG)
+> 丝印一键生成 — 嘉立创 EDA Pro PCB 编辑器扩展。
+> 根据排针/排母焊盘网络名自动生成 & 管理丝印标签。
+
+`JavaScript` `PCB` `EDA`
+
+</td>
+<td width="50%" valign="top">
+
+#### [ESPAgent](https://github.com/cube1345/ESPAgent)
+> 基于 ESP32 平台的 AI Agent。
+> AIoT + Skills 机制 + MQTT 物联网工程。
+
+`C++` `AIoT` `MCU` `Agent`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [sast-people](https://github.com/cube1345/sast-people)
+> SASTer 全生命周期档案管理平台。
+> Next.js + Drizzle ORM + PostgreSQL，Docker 部署。
+
+`TypeScript` `Next.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+#### [ego-planner-swarm](https://github.com/cube1345/ego-planner-swarm)
+> 基于 Ego-Planner 的无人机避障算法。
+> 多模态融合，支持单机/多机轨迹规划。
+
+`C++` `ROS` `Robotics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [RoboClaw](https://github.com/cube1345/RoboClaw)
+> 开源具身智能助手。
+> 机械臂标定 / 遥操作 / 数据采集 / 训练 / 推理全流程。
+
+`Python` `TypeScript` `Embodied AI`
+
+</td>
+<td width="50%" valign="top">
+
+#### [MCU_Template](https://github.com/cube1345/MCU_Template)
+> 通用化 MCU 开发平台脚手架。
+> oop-in-c 多层封装，快速启动嵌入式项目。
+
+`oop-in-c` `MCU`
+
+</td>
+</tr>
+</table>
 
 <sub>More on my profile → <a href="https://github.com/cube1345?tab=repositories">github.com/cube1345?tab=repositories</a></sub>
 
@@ -121,6 +205,35 @@
 <!-- ===================== OPEN TO ===================== -->
 
 ## 🤝 Open to · 开放机会
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### English
+
+- Collaboration on **EDA plugins, embedded tools, IoT dashboards**
+- Frontend gigs involving **TypeScript, Next.js, Vue, complex data UI**
+- Embedded projects on **RISC-V, ARM Cortex-M, ESP32, RTOS firmware**
+- Open-source partnership — hardware + software cross-domain projects
+- Remote-friendly · async-first · CST (UTC+8)
+
+</td>
+<td width="50%" valign="top">
+
+### 中文
+
+- **EDA 插件 / 嵌入式工具 / IoT 仪表盘** 方向合作
+- 前端项目：**TypeScript、Next.js、Vue 复杂数据界面**
+- 嵌入式项目：**RISC-V、ARM Cortex-M、ESP32、RTOS 固件开发**
+- 开源协作：软硬件交叉领域共建
+- 远程友好，习惯异步协作
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ===================== CONNECT ===================== -->
 

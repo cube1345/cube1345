@@ -88,15 +88,15 @@
 
 <div align="center">
 
-<img src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="92%"/>
+<img src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak" width="92%"/>
+<img src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak" width="40%"/>
 
 <br/>
 
-<img src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages" width="92%"/>
+<img src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages" width="40%"/>
 
 <br/><br/>
 

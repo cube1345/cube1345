@@ -34,19 +34,9 @@
 
 ## 👋 About Me · 关于我
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
 <!-- ===================== SPOTLIGHT PROJECTS ===================== -->
 
 ## 🚀 Projects · 项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 <sub>More on my profile → <a href="https://github.com/cube1345?tab=repositories">github.com/cube1345?tab=repositories</a></sub>
 
@@ -123,12 +113,6 @@
 <!-- ===================== OPEN TO ===================== -->
 
 ## 🤝 Open to · 开放机会
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
 
 <!-- ===================== CONNECT ===================== -->
 

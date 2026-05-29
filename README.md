@@ -48,7 +48,7 @@
 <tr>
 <td width="50%" valign="top">
 
-`<sub>`More on my profile → `<a href="https://github.com/cube1345?tab=repositories">`github.com/cube1345?tab=repositories`</a></sub>`
+<sub>More on my profile → <a href="https://github.com/cube1345?tab=repositories">github.com/cube1345?tab=repositories</a></sub>
 
 <br/>
 
@@ -98,18 +98,18 @@
 
 <div align="center">
 
-`<img height="170" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>`
-`<img height="170" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/>`
+<img height="170" width="49%" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="170" width="49%" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/>
 
 <br/>
 
-<img height="170" src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages"/>
+<img height="170" width="49%" src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages"/>
 
-`<br/><br/>`
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=cube1345&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=cube1345&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="98%" alt="Trophies"/>
 
-`<br/><br/>`
+<br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=cube1345&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2dd4bf&line=38bdf8&point=f59e0b" alt="Activity Graph"/>
 
@@ -149,7 +149,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=120&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
-`<sub>`If something here interests you, feel free to reach out — I read every message.`</sub>`
+<sub>If something here interests you, feel free to reach out — I read every message.</sub>
 
 </div>
-# cube1345

@@ -98,8 +98,7 @@
 
 <div align="center">
 
-<img height="170" width="49.3%" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" width="49.3%" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/>
+<img height="170" width="49%" src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats"/><img height="170" width="49%" src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak"/>
 
 <br/><br/>
 

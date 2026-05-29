@@ -34,9 +34,17 @@
 
 ## 👋 About Me · 关于我
 
+- Frontend developer focused on practical, polished web tools.
+- Embedded learner and builder working with MCU, C/C++, RISC-V and hardware workflows.
+- Interested in EDA, ROS2 and the bridge between software interfaces and physical systems.
+
 <!-- ===================== SPOTLIGHT PROJECTS ===================== -->
 
 ## 🚀 Projects · 项目
+
+- **Frontend tools**: TypeScript, Next.js and Vue interfaces for useful developer workflows.
+- **Embedded experiments**: MCU, C/C++ and RISC-V practice projects around low-level systems.
+- **EDA / hardware workflow**: scripts, notes and UI ideas for improving electronics development.
 
 <sub>More on my profile → <a href="https://github.com/cube1345?tab=repositories">github.com/cube1345?tab=repositories</a></sub>
 

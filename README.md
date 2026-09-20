@@ -141,36 +141,21 @@ Skilled in **TypeScript / JavaScript** for web development, and **C / C++** for 
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend & Web**
+**Frontend**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Embedded & Hardware**
+**Embedded**
 
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Makefile](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=cmake&logoColor=white)
+![MCU](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![嘉立创EDA](https://img.shields.io/badge/%E5%98%89%E7%AB%8B%E5%88%9BEDA-5588FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDIgNy41djlsMTAgNS41IDEwLTUuNXYtOUwxMiAyem0wIDIuNWw3IDMuODV2Ny4zbC03IDMuODUtNy0zLjg1di03LjNMMTIgNC41eiIvPjwvc3ZnPg==&logoColor=white)
 
 <br/>
 
@@ -180,23 +165,12 @@ Skilled in **TypeScript / JavaScript** for web development, and **C / C++** for 
 
 <div align="center">
 
-<img src="https://grs-stats.vercel.app/api?username=cube1345&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&icon_color=38bdf8&text_color=c0caf5&include_all_commits=true&count_private=true" alt="GitHub Stats" width="40%"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=cube1345&theme=tokyonight&hide_border=true&background=1a1b27&stroke=2dd4bf&ring=38bdf8&fire=f59e0b&currStreakLabel=2dd4bf" alt="Streak" width="40%"/>
 
 <br/>
 
 <img src="https://grs-stats.vercel.app/api/top-langs/?username=cube1345&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=2dd4bf&text_color=c0caf5&langs_count=10" alt="Top Languages" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=cube1345&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cube1345&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=2dd4bf&line=38bdf8&point=f59e0b" alt="Activity Graph" width="100%"/>
 
 </div>
 

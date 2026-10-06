@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/cube1345">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=220&section=header&text=Cube&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Embedded%20%C2%B7%20EDA%20%C2%B7%20ROS2&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=220&section=header&text=Cube&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%C2%B7%20Embedded%20%C2%B7%20Linux%20%C2%B7%20EDA%20%C2%B7%20ROS2&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
 </a>
 
 <!-- ===================== TYPING TAGLINE ===================== -->
